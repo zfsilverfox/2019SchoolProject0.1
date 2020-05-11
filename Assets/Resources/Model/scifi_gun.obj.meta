@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: f6f05e72587597d4cb8d214742fc41d2
+timeCreated: 1557725742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: pCube1
+    100002: pCube11
+    100004: pCube12
+    100006: pCube2
+    100008: pCube4
+    100010: pCube5
+    100012: pCube6
+    100014: pCylinder1
+    100016: pCylinder10
+    100018: pCylinder11
+    100020: pCylinder2
+    100022: pCylinder3
+    100024: pCylinder4
+    100026: pCylinder5
+    100028: pCylinder6
+    100030: pCylinder7
+    100032: pCylinder8
+    100034: pCylinder9
+    100036: polySurface1_pPlane5
+    100038: polySurface2_pPlane13
+    100040: pPlane1
+    100042: pPlane10
+    100044: pPlane11
+    100046: pPlane12
+    100048: pPlane14
+    100050: pPlane15
+    100052: pPlane16
+    100054: pPlane17
+    100056: pPlane19
+    100058: pPlane20
+    100060: pPlane21
+    100062: pPlane22
+    100064: pPlane23
+    100066: pPlane24
+    100068: pPlane25
+    100070: pPlane26
+    100072: pPlane27
+    100074: pPlane28
+    100076: pPlane29
+    100078: pPlane30
+    100080: pPlane31
+    100082: pPlane32
+    100084: pPlane33
+    100086: pPlane34
+    100088: pPlane35
+    100090: pPlane36
+    100092: pPlane37
+    100094: pPlane38
+    100096: pPlane39
+    100098: pPlane4
+    100100: pPlane40
+    100102: pPlane41
+    100104: pPlane42
+    100106: pPlane8
+    100108: //RootNode
+    400000: pCube1
+    400002: pCube11
+    400004: pCube12
+    400006: pCube2
+    400008: pCube4
+    400010: pCube5
+    400012: pCube6
+    400014: pCylinder1
+    400016: pCylinder10
+    400018: pCylinder11
+    400020: pCylinder2
+    400022: pCylinder3
+    400024: pCylinder4
+    400026: pCylinder5
+    400028: pCylinder6
+    400030: pCylinder7
+    400032: pCylinder8
+    400034: pCylinder9
+    400036: polySurface1_pPlane5
+    400038: polySurface2_pPlane13
+    400040: pPlane1
+    400042: pPlane10
+    400044: pPlane11
+    400046: pPlane12
+    400048: pPlane14
+    400050: pPlane15
+    400052: pPlane16
+    400054: pPlane17
+    400056: pPlane19
+    400058: pPlane20
+    400060: pPlane21
+    400062: pPlane22
+    400064: pPlane23
+    400066: pPlane24
+    400068: pPlane25
+    400070: pPlane26
+    400072: pPlane27
+    400074: pPlane28
+    400076: pPlane29
+    400078: pPlane30
+    400080: pPlane31
+    400082: pPlane32
+    400084: pPlane33
+    400086: pPlane34
+    400088: pPlane35
+    400090: pPlane36
+    400092: pPlane37
+    400094: pPlane38
+    400096: pPlane39
+    400098: pPlane4
+    400100: pPlane40
+    400102: pPlane41
+    400104: pPlane42
+    400106: pPlane8
+    400108: //RootNode
+    2300000: pCube1
+    2300002: pCube11
+    2300004: pCube12
+    2300006: pCube2
+    2300008: pCube4
+    2300010: pCube5
+    2300012: pCube6
+    2300014: pCylinder1
+    2300016: pCylinder10
+    2300018: pCylinder11
+    2300020: pCylinder2
+    2300022: pCylinder3
+    2300024: pCylinder4
+    2300026: pCylinder5
+    2300028: pCylinder6
+    2300030: pCylinder7
+    2300032: pCylinder8
+    2300034: pCylinder9
+    2300036: polySurface1_pPlane5
+    2300038: polySurface2_pPlane13
+    2300040: pPlane1
+    2300042: pPlane10
+    2300044: pPlane11
+    2300046: pPlane12
+    2300048: pPlane14
+    2300050: pPlane15
+    2300052: pPlane16
+    2300054: pPlane17
+    2300056: pPlane19
+    2300058: pPlane20
+    2300060: pPlane21
+    2300062: pPlane22
+    2300064: pPlane23
+    2300066: pPlane24
+    2300068: pPlane25
+    2300070: pPlane26
+    2300072: pPlane27
+    2300074: pPlane28
+    2300076: pPlane29
+    2300078: pPlane30
+    2300080: pPlane31
+    2300082: pPlane32
+    2300084: pPlane33
+    2300086: pPlane34
+    2300088: pPlane35
+    2300090: pPlane36
+    2300092: pPlane37
+    2300094: pPlane38
+    2300096: pPlane39
+    2300098: pPlane4
+    2300100: pPlane40
+    2300102: pPlane41
+    2300104: pPlane42
+    2300106: pPlane8
+    3300000: pCube1
+    3300002: pCube11
+    3300004: pCube12
+    3300006: pCube2
+    3300008: pCube4
+    3300010: pCube5
+    3300012: pCube6
+    3300014: pCylinder1
+    3300016: pCylinder10
+    3300018: pCylinder11
+    3300020: pCylinder2
+    3300022: pCylinder3
+    3300024: pCylinder4
+    3300026: pCylinder5
+    3300028: pCylinder6
+    3300030: pCylinder7
+    3300032: pCylinder8
+    3300034: pCylinder9
+    3300036: polySurface1_pPlane5
+    3300038: polySurface2_pPlane13
+    3300040: pPlane1
+    3300042: pPlane10
+    3300044: pPlane11
+    3300046: pPlane12
+    3300048: pPlane14
+    3300050: pPlane15
+    3300052: pPlane16
+    3300054: pPlane17
+    3300056: pPlane19
+    3300058: pPlane20
+    3300060: pPlane21
+    3300062: pPlane22
+    3300064: pPlane23
+    3300066: pPlane24
+    3300068: pPlane25
+    3300070: pPlane26
+    3300072: pPlane27
+    3300074: pPlane28
+    3300076: pPlane29
+    3300078: pPlane30
+    3300080: pPlane31
+    3300082: pPlane32
+    3300084: pPlane33
+    3300086: pPlane34
+    3300088: pPlane35
+    3300090: pPlane36
+    3300092: pPlane37
+    3300094: pPlane38
+    3300096: pPlane39
+    3300098: pPlane4
+    3300100: pPlane40
+    3300102: pPlane41
+    3300104: pPlane42
+    3300106: pPlane8
+    4300000: pCube1
+    4300002: pCube11
+    4300004: pCube12
+    4300006: pCube2
+    4300008: pCube4
+    4300010: pCube5
+    4300012: pCube6
+    4300014: pCylinder1
+    4300016: pCylinder10
+    4300018: pCylinder11
+    4300020: pCylinder2
+    4300022: pCylinder3
+    4300024: pCylinder4
+    4300026: pCylinder5
+    4300028: pCylinder6
+    4300030: pCylinder7
+    4300032: pCylinder8
+    4300034: pCylinder9
+    4300036: polySurface1_pPlane5
+    4300038: polySurface2_pPlane13
+    4300040: pPlane1
+    4300042: pPlane10
+    4300044: pPlane11
+    4300046: pPlane12
+    4300048: pPlane14
+    4300050: pPlane15
+    4300052: pPlane16
+    4300054: pPlane17
+    4300056: pPlane19
+    4300058: pPlane20
+    4300060: pPlane21
+    4300062: pPlane22
+    4300064: pPlane23
+    4300066: pPlane24
+    4300068: pPlane25
+    4300070: pPlane26
+    4300072: pPlane27
+    4300074: pPlane28
+    4300076: pPlane29
+    4300078: pPlane30
+    4300080: pPlane31
+    4300082: pPlane32
+    4300084: pPlane33
+    4300086: pPlane34
+    4300088: pPlane35
+    4300090: pPlane36
+    4300092: pPlane37
+    4300094: pPlane38
+    4300096: pPlane39
+    4300098: pPlane4
+    4300100: pPlane40
+    4300102: pPlane41
+    4300104: pPlane42
+    4300106: pPlane8
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube11Mat
+    second: {fileID: 2100000, guid: 38a5d64851a5c714583ce3e3bf017066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube12Mat
+    second: {fileID: 2100000, guid: bb580da0e02578d4fb58364cdd023749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube1Mat
+    second: {fileID: 2100000, guid: ad911267cba961243bc340bbba0e3bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube2Mat
+    second: {fileID: 2100000, guid: b71b27f280aaccc43b39b7b57ad1f0e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube4Mat
+    second: {fileID: 2100000, guid: 288e0668e50e9ca47999fc47428c4b3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube5Mat
+    second: {fileID: 2100000, guid: dbbe6ae5e2fef3c4bbee6c088537799f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube6Mat
+    second: {fileID: 2100000, guid: e8b0673001d0c154e8dedf448f56120e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder10Mat
+    second: {fileID: 2100000, guid: 8f94609f4a4c0b04e8201aa274dfd805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder11Mat
+    second: {fileID: 2100000, guid: 5fef59c8d0f20f04eafccace62ff4f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder1Mat
+    second: {fileID: 2100000, guid: beb2f746b43e621498c1132c1782d42d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder2Mat
+    second: {fileID: 2100000, guid: 64f53f792d821574288ecb4ff84700d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder3Mat
+    second: {fileID: 2100000, guid: f2132610a4ad7df4a89dbd51f0cd91a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder4Mat
+    second: {fileID: 2100000, guid: 05905d8c7c0429f44b2c26e50975acba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder5Mat
+    second: {fileID: 2100000, guid: 88c8985452556e84d9d3055397902b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder6Mat
+    second: {fileID: 2100000, guid: 83e33750577a3c04f8b433c33b49a1cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder7Mat
+    second: {fileID: 2100000, guid: 49a33d277f2b85a4799d7e0cd905eb43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder8Mat
+    second: {fileID: 2100000, guid: b9421c83d48c67e4cb23cd55f741177f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder9Mat
+    second: {fileID: 2100000, guid: dab6221d52e7aac468324294de7080fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane10Mat
+    second: {fileID: 2100000, guid: 795c4e5a6d988014dadd9e36c8d1af0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane11Mat
+    second: {fileID: 2100000, guid: 11010d87d7544d748a26c2f511cd1feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane12Mat
+    second: {fileID: 2100000, guid: 2257ad795c8cc7947864bddc8b226e77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane14Mat
+    second: {fileID: 2100000, guid: 3ae9722e0c90b5b4d95c499c9989f508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane15Mat
+    second: {fileID: 2100000, guid: e1fd7d684bd480c41abbbb591edf6a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane16Mat
+    second: {fileID: 2100000, guid: c8174e2067acd9c4989aed0c5fdc9031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane17Mat
+    second: {fileID: 2100000, guid: 28fbd71b5c853dc498de6f7251df1de4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane19Mat
+    second: {fileID: 2100000, guid: 2cdd58fccb3f155428d098a1b81c0b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane1Mat
+    second: {fileID: 2100000, guid: 52f1ccef322389c40a6d29bc20351b70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane20Mat
+    second: {fileID: 2100000, guid: 1a1011bac804229478c4e1ad567cb75f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane21Mat
+    second: {fileID: 2100000, guid: 214fa0612dafc41448d24d7e9523bac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane22Mat
+    second: {fileID: 2100000, guid: 3bf2f5f92206f204eb451d83a1d4d7c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane23Mat
+    second: {fileID: 2100000, guid: 6f3e90c2c121e9c4b8cba81f1602d0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane24Mat
+    second: {fileID: 2100000, guid: b9ed0f123dd62ad44bc064d253f9bbd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane25Mat
+    second: {fileID: 2100000, guid: eb0b0655379552a448fe1144c608e3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane26Mat
+    second: {fileID: 2100000, guid: 32864d0b259d2c246be4669a8f5234e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane27Mat
+    second: {fileID: 2100000, guid: a49aa0fbd09e4ee4e83363129e5f642f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane28Mat
+    second: {fileID: 2100000, guid: 4502f23c2c5e8a64f8ced27f15109f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane29Mat
+    second: {fileID: 2100000, guid: 1b7753d352389c34b942b9d97a2a318a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane30Mat
+    second: {fileID: 2100000, guid: 9642cb15932fdf24492f90faab63047a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane31Mat
+    second: {fileID: 2100000, guid: 14fffc4c74777b746ba3d734e1bcaa2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane32Mat
+    second: {fileID: 2100000, guid: 809fac7e784bec845ab049edfc43bc5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane33Mat
+    second: {fileID: 2100000, guid: 6623abdd86b561d48acde6a9e7065f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane34Mat
+    second: {fileID: 2100000, guid: bc396a859915a5e4dbea08f78b368459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane35Mat
+    second: {fileID: 2100000, guid: 893f554c7dae3de448949c9a65c39157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane36Mat
+    second: {fileID: 2100000, guid: ab39f1f5a5379e1478d943dab0e5c7df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane37Mat
+    second: {fileID: 2100000, guid: 18758ee5a91582c44920dbbe8b98aedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane38Mat
+    second: {fileID: 2100000, guid: a7c8f48cded974044889c01e745be21b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane39Mat
+    second: {fileID: 2100000, guid: 1da2f07cc43a6254d8efd3b53496fc67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane40Mat
+    second: {fileID: 2100000, guid: a496ee4b5b728194f82e7d10502409c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane41Mat
+    second: {fileID: 2100000, guid: 910415a89c9deed48a0bb31e7c469097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane42Mat
+    second: {fileID: 2100000, guid: f69fecc4353d5ce47978ef8266c775cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane4Mat
+    second: {fileID: 2100000, guid: e6ee6d594bd532e4b80939e9763a6a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pPlane8Mat
+    second: {fileID: 2100000, guid: 1e2aba3797aad884290ee48157156f1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface1_pPlane5Mat
+    second: {fileID: 2100000, guid: 6da6972bafc0ca3499f5922c7e2d3c10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface2_pPlane13Mat
+    second: {fileID: 2100000, guid: e4557b64ef551de41bb837aba27704da, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

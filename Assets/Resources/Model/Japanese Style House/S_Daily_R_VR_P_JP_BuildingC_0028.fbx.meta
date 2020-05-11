@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: ffb9092e10a438e498d27ef9df7931e9
+timeCreated: 1555917427
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: //RootNode
+    100004: S_JPBuildingC_2_028_01
+    100006: S_JPBuildingC_2_028_02
+    100008: S_JPBuildingC_2_028_03
+    100010: S_JPBuildingC_2_028_04
+    100012: S_JPBuildingC_2_028_05
+    100014: S_JPBuildingC_2_028_06
+    100016: S_JPBuildingC_2_028_07
+    100018: S_JPBuildingC_2_028_08
+    100020: S_JPBuildingC_2_028_09
+    100022: S_JPBuildingC_2_028_10
+    100024: S_JPBuildingC_2_028_11
+    100026: S_JPBuildingC_2_028_12
+    100028: S_JPBuildingC_2_028_13
+    100030: S_JPBuildingC_2_028_14
+    100032: S_JPBuildingC_2_028_15
+    100034: S_JPBuildingC_2_028_16
+    100036: S_JPBuildingC_2_028_17
+    100038: S_JPBuildingC_2_028_18
+    100040: S_JPBuildingC_2_028_19
+    100042: S_JPBuildingC_2_028_20
+    100044: windows
+    400000: Box001
+    400002: //RootNode
+    400004: S_JPBuildingC_2_028_01
+    400006: S_JPBuildingC_2_028_02
+    400008: S_JPBuildingC_2_028_03
+    400010: S_JPBuildingC_2_028_04
+    400012: S_JPBuildingC_2_028_05
+    400014: S_JPBuildingC_2_028_06
+    400016: S_JPBuildingC_2_028_07
+    400018: S_JPBuildingC_2_028_08
+    400020: S_JPBuildingC_2_028_09
+    400022: S_JPBuildingC_2_028_10
+    400024: S_JPBuildingC_2_028_11
+    400026: S_JPBuildingC_2_028_12
+    400028: S_JPBuildingC_2_028_13
+    400030: S_JPBuildingC_2_028_14
+    400032: S_JPBuildingC_2_028_15
+    400034: S_JPBuildingC_2_028_16
+    400036: S_JPBuildingC_2_028_17
+    400038: S_JPBuildingC_2_028_18
+    400040: S_JPBuildingC_2_028_19
+    400042: S_JPBuildingC_2_028_20
+    400044: windows
+    2300000: Box001
+    2300002: S_JPBuildingC_2_028_01
+    2300004: S_JPBuildingC_2_028_02
+    2300006: S_JPBuildingC_2_028_03
+    2300008: S_JPBuildingC_2_028_04
+    2300010: S_JPBuildingC_2_028_05
+    2300012: S_JPBuildingC_2_028_06
+    2300014: S_JPBuildingC_2_028_07
+    2300016: S_JPBuildingC_2_028_08
+    2300018: S_JPBuildingC_2_028_09
+    2300020: S_JPBuildingC_2_028_10
+    2300022: S_JPBuildingC_2_028_11
+    2300024: S_JPBuildingC_2_028_12
+    2300026: S_JPBuildingC_2_028_13
+    2300028: S_JPBuildingC_2_028_14
+    2300030: S_JPBuildingC_2_028_15
+    2300032: S_JPBuildingC_2_028_16
+    2300034: S_JPBuildingC_2_028_17
+    2300036: S_JPBuildingC_2_028_18
+    2300038: S_JPBuildingC_2_028_19
+    2300040: S_JPBuildingC_2_028_20
+    2300042: windows
+    3300000: Box001
+    3300002: S_JPBuildingC_2_028_01
+    3300004: S_JPBuildingC_2_028_02
+    3300006: S_JPBuildingC_2_028_03
+    3300008: S_JPBuildingC_2_028_04
+    3300010: S_JPBuildingC_2_028_05
+    3300012: S_JPBuildingC_2_028_06
+    3300014: S_JPBuildingC_2_028_07
+    3300016: S_JPBuildingC_2_028_08
+    3300018: S_JPBuildingC_2_028_09
+    3300020: S_JPBuildingC_2_028_10
+    3300022: S_JPBuildingC_2_028_11
+    3300024: S_JPBuildingC_2_028_12
+    3300026: S_JPBuildingC_2_028_13
+    3300028: S_JPBuildingC_2_028_14
+    3300030: S_JPBuildingC_2_028_15
+    3300032: S_JPBuildingC_2_028_16
+    3300034: S_JPBuildingC_2_028_17
+    3300036: S_JPBuildingC_2_028_18
+    3300038: S_JPBuildingC_2_028_19
+    3300040: S_JPBuildingC_2_028_20
+    3300042: windows
+    4300000: S_JPBuildingC_2_028_01
+    4300002: S_JPBuildingC_2_028_02
+    4300004: S_JPBuildingC_2_028_03
+    4300006: S_JPBuildingC_2_028_04
+    4300008: S_JPBuildingC_2_028_05
+    4300010: S_JPBuildingC_2_028_06
+    4300012: S_JPBuildingC_2_028_07
+    4300014: S_JPBuildingC_2_028_08
+    4300016: S_JPBuildingC_2_028_09
+    4300018: S_JPBuildingC_2_028_10
+    4300020: S_JPBuildingC_2_028_11
+    4300022: S_JPBuildingC_2_028_12
+    4300024: S_JPBuildingC_2_028_13
+    4300026: S_JPBuildingC_2_028_14
+    4300028: S_JPBuildingC_2_028_15
+    4300030: S_JPBuildingC_2_028_16
+    4300032: S_JPBuildingC_2_028_17
+    4300034: S_JPBuildingC_2_028_18
+    4300036: S_JPBuildingC_2_028_19
+    4300038: S_JPBuildingC_2_028_20
+    4300040: Box001
+    4300042: windows
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 3a524941ecd4a0141853b5a62198dbf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #91'
+    second: {fileID: 2100000, guid: d510ff81b65123f42944ad8e5e02d57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #92'
+    second: {fileID: 2100000, guid: 0410b10d23495504fa8af9b49ac2e701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #93'
+    second: {fileID: 2100000, guid: 91464789253860f4492417539b134b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #94'
+    second: {fileID: 2100000, guid: 1f638fc3cbf129947ba1d329448d73bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S_AirConditionerAA_2_001
+    second: {fileID: 2100000, guid: f130131eeff5f8743844c6660b068801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat10
+    second: {fileID: 2100000, guid: 01ee46e2bc4c0f04fb9eb90b02c3d687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat13
+    second: {fileID: 2100000, guid: 176b98dad4b26ad4597268e5a01fc1be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat5
+    second: {fileID: 2100000, guid: c3d5695a539fe844888327d06a81072f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat6
+    second: {fileID: 2100000, guid: be74259845a18fb43b6ed68201e8d395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat8
+    second: {fileID: 2100000, guid: cefe45ca32910df4da27e87751aa28d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 1e37427078b47fa43a917fc6ebcc34d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: re
+    second: {fileID: 2100000, guid: ff2441a9519aedf41b47ff555a2b3875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seroo
+    second: {fileID: 2100000, guid: 2b9ab22b459f7eb4abf12d595f3a6180, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
